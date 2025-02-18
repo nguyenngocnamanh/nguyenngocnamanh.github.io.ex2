@@ -9,7 +9,7 @@
         <h1>Fruits</h1> 
     </p>
     <ol>
-    <img src="banana.png" alt =apple.png width =100>
+    <background-image: url(/EPicture/img/orange.png width =100>
     <img src="orange.png" alt =apple.png width =100>
     <img src="kiwi.png" alt =apple.png width =100>
     <img src="kiwi.png" alt =apple.png width =100>
